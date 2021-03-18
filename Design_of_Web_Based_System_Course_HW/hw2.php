@@ -23,9 +23,9 @@
         }
     }
 
-    num_eval(1);
-    num_eval(1.1);
-    num_eval(11);
+    num_eval(3);
+    num_eval(23.9);
+    num_eval(999);
     ?>
   </body>
 </html>
